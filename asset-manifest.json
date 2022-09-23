@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/react-pages/static/css/main.726f9b60.css",
-    "main.js": "/react-pages/static/js/main.75517b1f.js",
+    "main.css": "/react-pages/static/css/main.81f76c9d.css",
+    "main.js": "/react-pages/static/js/main.f30d4ada.js",
     "static/js/787.c2651732.chunk.js": "/react-pages/static/js/787.c2651732.chunk.js",
     "static/media/helvetica-neu.ttf": "/react-pages/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
     "static/media/logo_sub.png": "/react-pages/static/media/logo_sub.19f3ab25ab15fd848b30.png",
@@ -9,12 +9,12 @@
     "static/media/logo-s.png": "/react-pages/static/media/logo-s.bfc9f81846bda5218dab.png",
     "static/media/CoolveticaRg-Regular.woff2": "/react-pages/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
     "index.html": "/react-pages/index.html",
-    "main.726f9b60.css.map": "/react-pages/static/css/main.726f9b60.css.map",
-    "main.75517b1f.js.map": "/react-pages/static/js/main.75517b1f.js.map",
+    "main.81f76c9d.css.map": "/react-pages/static/css/main.81f76c9d.css.map",
+    "main.f30d4ada.js.map": "/react-pages/static/js/main.f30d4ada.js.map",
     "787.c2651732.chunk.js.map": "/react-pages/static/js/787.c2651732.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.726f9b60.css",
-    "static/js/main.75517b1f.js"
+    "static/css/main.81f76c9d.css",
+    "static/js/main.f30d4ada.js"
   ]
 }
