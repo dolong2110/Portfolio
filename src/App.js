@@ -5,8 +5,8 @@ import Layout from './components/Layout'
 const App = () => {
   return (
     <>
-      <Routes path='/react-pages'>
-        <Route path='/' element={<Layout />}>
+      <Routes>
+        <Route exact path='/react-pages' element={<Layout />}>
         </Route>
       </Routes>
     </>
