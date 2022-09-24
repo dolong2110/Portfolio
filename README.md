@@ -75,3 +75,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 https://www.youtube.com/watch?v=5I37iVCDUTU
 
 https://www.youtube.com/watch?v=bmpI252DmiI
+
+https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site
