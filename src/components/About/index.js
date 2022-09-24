@@ -1,6 +1,6 @@
 import './index.scss'
 import AnimatedLetters from '../AnimatedLetters'
-// import Loader from 'react-loaders'
+import Loader from 'react-loaders'
 import { useEffect, useState } from 'react'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faCss3, faGitAlt, faGolang, faHtml5, faPython, faReact } from '@fortawesome/free-brands-svg-icons'
@@ -62,7 +62,7 @@ const About = () => {
           </div>
         </div>
       </div>
-      {/*<Loader type='pacman'  active/>*/}
+      <Loader type='pacman' active />
     </>
   )
 }
