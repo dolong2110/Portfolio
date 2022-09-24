@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.2af0a279.css",
-    "main.js": "/static/js/main.3b254858.js",
-    "static/js/787.c2651732.chunk.js": "/static/js/787.c2651732.chunk.js",
-    "static/media/helvetica-neu.ttf": "/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
-    "static/media/logo_sub.png": "/static/media/logo_sub.19f3ab25ab15fd848b30.png",
-    "static/media/LaBelleAurore.woff2": "/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
-    "static/media/logo-s.png": "/static/media/logo-s.bfc9f81846bda5218dab.png",
-    "static/media/CoolveticaRg-Regular.woff2": "/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
-    "index.html": "/index.html",
-    "main.2af0a279.css.map": "/static/css/main.2af0a279.css.map",
-    "main.3b254858.js.map": "/static/js/main.3b254858.js.map",
-    "787.c2651732.chunk.js.map": "/static/js/787.c2651732.chunk.js.map"
+    "main.css": "/website/static/css/main.1c275aeb.css",
+    "main.js": "/website/static/js/main.0d7ca7b2.js",
+    "static/js/787.c2651732.chunk.js": "/website/static/js/787.c2651732.chunk.js",
+    "static/media/helvetica-neu.ttf": "/website/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
+    "static/media/logo_sub.png": "/website/static/media/logo_sub.19f3ab25ab15fd848b30.png",
+    "static/media/LaBelleAurore.woff2": "/website/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
+    "static/media/logo-s.png": "/website/static/media/logo-s.bfc9f81846bda5218dab.png",
+    "static/media/CoolveticaRg-Regular.woff2": "/website/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
+    "index.html": "/website/index.html",
+    "main.1c275aeb.css.map": "/website/static/css/main.1c275aeb.css.map",
+    "main.0d7ca7b2.js.map": "/website/static/js/main.0d7ca7b2.js.map",
+    "787.c2651732.chunk.js.map": "/website/static/js/787.c2651732.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2af0a279.css",
-    "static/js/main.3b254858.js"
+    "static/css/main.1c275aeb.css",
+    "static/js/main.0d7ca7b2.js"
   ]
 }
