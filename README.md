@@ -77,3 +77,7 @@ https://www.youtube.com/watch?v=5I37iVCDUTU
 https://www.youtube.com/watch?v=bmpI252DmiI
 
 https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site
+
+https://www.emailjs.com/docs/introduction/how-does-emailjs-work/
+
+https://react-leaflet.js.org/
