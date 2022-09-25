@@ -74,7 +74,7 @@ const Contact = () => {
           <br/>
           Vietnam,
           <br/>
-          35 Kim Ma Thuong street
+          Kim Ma Thuong street
           <br/>
           Ba Dinh District
           <br/>
