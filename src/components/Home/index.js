@@ -37,6 +37,9 @@ const Home = () => {
           <Link className='flat-button' to='/contact'>
             CONTACT ME
           </Link>
+          <a className='flat-button' target='_blank' rel='noreferrer' href='https://drive.google.com/file/d/1Pm1FXVAwdk7PQSmQoJOkzD_gS14AM5W1/view?usp=sharing'>
+            RESUME
+          </a>
         </div>
       </div>
       <Loader type='pacman' active />
