@@ -1,0 +1,47 @@
+.bottom-bar {
+  height: 30px;
+  width: 100%;
+  margin-left: 60px;
+  margin-right: auto;
+  bottom: 0 !important;
+  background: #0a0416;
+  overflow: hidden;
+  position: fixed;
+  padding-bottom: 8px !important;
+  padding-top: 10px !important;
+
+  h2 {
+    float: left;
+    display: inline-block;
+    color: #f2f2f2;
+    text-align: center;
+    text-decoration: none;
+    margin: 7px 100px;
+    font-size: 14px;
+  }
+
+  ul {
+    position: absolute;
+    height: 100%;
+    left: 1050px;
+    padding: 0;
+    list-style: none;
+    text-align: center;
+    margin: 0;
+
+    li {
+      display: inline-block;
+      float: left;
+      font-size: 14px;
+      padding: 7px 20px;
+
+      a {
+        display: block;
+
+        &:hover svg {
+          color: #ffd700;
+        }
+      }
+    }
+  }
+}

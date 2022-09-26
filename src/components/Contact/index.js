@@ -2,7 +2,7 @@ import './index.scss'
 import Loader from 'react-loaders'
 import AnimatedLetters from '../AnimatedLetters'
 import { useEffect, useRef, useState } from 'react'
-import emailjs from '@emailjs/browser'
+import emailJs from '@emailjs/browser'
 import { MapContainer, Marker, Popup, TileLayer } from 'react-leaflet'
 
 const Contact = () => {
@@ -19,7 +19,7 @@ const Contact = () => {
   const sendEmail = (e) => {
     setIsDisabled(true);
     e.preventDefault()
-    emailjs.sendForm(
+    emailJs.sendForm(
       'dolong2110',
       'contact_form',
       refForm.current,
@@ -27,7 +27,7 @@ const Contact = () => {
     ).then(
       () => {
         alert('Message successfully sent!')
-        window.location.reload(false)
+        window.location.reload()
       },
       () => {
         alert('Failed to send the message, please try again')
